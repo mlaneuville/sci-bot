@@ -1,0 +1,9 @@
+# first document (one per paper)
+- paper id
+- paper abstract
+
+# second document (one per citation)
+- paper id
+- reference cited
+- context for reference
+- all paper ids that are cited in the same paper and are in document 1
